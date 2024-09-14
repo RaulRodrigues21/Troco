@@ -1,0 +1,14 @@
+c:\Users\user\Troco\bin\Debug\net8.0\Troco.exe
+C:\Users\user\Troco\bin\Debug\net8.0\Troco.deps.json
+C:\Users\user\Troco\bin\Debug\net8.0\Troco.runtimeconfig.json
+c:\Users\user\Troco\bin\Debug\net8.0\Troco.dll
+c:\Users\user\Troco\bin\Debug\net8.0\Troco.pdb
+c:\Users\user\Troco\obj\Debug\net8.0\Troco.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\Troco\obj\Debug\net8.0\Troco.AssemblyInfoInputs.cache
+c:\Users\user\Troco\obj\Debug\net8.0\Troco.AssemblyInfo.cs
+c:\Users\user\Troco\obj\Debug\net8.0\Troco.csproj.CoreCompileInputs.cache
+c:\Users\user\Troco\obj\Debug\net8.0\Troco.dll
+c:\Users\user\Troco\obj\Debug\net8.0\refint\Troco.dll
+c:\Users\user\Troco\obj\Debug\net8.0\Troco.pdb
+C:\Users\user\Troco\obj\Debug\net8.0\Troco.genruntimeconfig.cache
+C:\Users\user\Troco\obj\Debug\net8.0\ref\Troco.dll
